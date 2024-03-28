@@ -28,3 +28,14 @@ input:active{
     background-color:ghostwhite;
     color:dimgrey;
 }
+
+#img img{
+    width: 180px;
+    margin:8px;
+}
+
+#result{
+    margin:35px;
+    color:tomato;
+    margin:black;
+}
